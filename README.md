@@ -1,1 +1,1 @@
-# ing-sis-com
+# Ingeniería en Sistemas Computacionales
